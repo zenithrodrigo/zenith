@@ -1,2 +1,3 @@
 aaa
 bbb
+index-image
